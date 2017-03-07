@@ -6,6 +6,7 @@ a node starter kit with:
 - transpiling (babel)
 - coverage (istanbul)
 - docker & compose
+- changelog (standard-version)
 
 ## LICENSE
 **UNLICENSED**
